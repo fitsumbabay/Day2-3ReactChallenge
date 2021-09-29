@@ -1,0 +1,30 @@
+/* body {
+  background-color: rgb(32, 206, 218);
+  color: white;
+} */
+
+.text {
+  display: inline-block;
+  position: absolute;
+}
+.Images_contaner {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
+
+.tags_contaner li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 5px;
+  background: #ccc;
+  margin: 5px;
+  border-radius: 5px;
+}
+.rating_contaner {
+  font-size: 25px;
+  font-weight: 800;
+  color: aqua;
+}

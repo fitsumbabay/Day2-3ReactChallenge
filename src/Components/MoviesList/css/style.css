@@ -1,0 +1,8 @@
+.button {
+  background-color: plum;
+  color: red;
+  font-weight: 700;
+  font-size: 30px;
+  border: 2px solid salmon;
+  border-radius: 5px;
+}
